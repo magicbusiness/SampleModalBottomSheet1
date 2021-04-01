@@ -1,0 +1,3 @@
+To use Modal Bottom Sheet
+1. Make fragment for Modal Bottom Sheet and dont forget to add key to pass data
+2. Next Implement fragment
